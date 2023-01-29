@@ -1,1 +1,1 @@
-my secoonded commit 
+my seconded commit 
